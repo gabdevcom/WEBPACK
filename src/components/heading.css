@@ -1,0 +1,8 @@
+.main-title{
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px dotted hotpink;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
